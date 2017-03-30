@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "GenderIntent",
+      "slots": [
+        {
+          "name": "Gender",
+          "type": "Gender"
+        }
+      ]
+    },
+    {
+      "intent": "YearIntent",
+      "slots": [
+        {
+          "name": "Year_Born",
+          "type": "AMAZON.FOUR_DIGIT_NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "SymptomsIntent",
+      "slots": [
+        {
+          "name": "Symptoms",
+          "type": "Symptoms"
+        }
+      ]
+    },
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "DetailIntent"
+    },
+    {
+      "intent": "TerminateIntent"
+    },
+    {
+      "intent": "FinishIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

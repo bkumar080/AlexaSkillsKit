@@ -1,0 +1,37 @@
+GenderIntent I am {Gender}
+GenderIntent {Gender}
+YearIntent I was born on {Year_Born}
+YearIntent {Year_Born}
+SymptomsIntent {Symptoms}
+SymptomsIntent I am {Symptoms}
+SymptomsIntent I am sensing {Symptoms}
+SymptomsIntent I am feeling {Symptoms}
+SymptomsIntent I am having {Symptoms}
+SymptomsIntent I have {Symptoms}
+SymptomsIntent I have an {Symptoms}
+SymptomsIntent I have a {Symptoms}
+SymptomsIntent I have to {Symptoms}
+SymptomsIntent I feel a {Symptoms}
+SymptomsIntent I feel an {Symptoms}
+SymptomsIntent I feel {Symptoms}
+SymptomsIntent I feel like {Symptoms}
+SymptomsIntent I feel I cant {Symptoms}
+SymptomsIntent There is {Symptoms}
+SymptomsIntent There are {Symptoms}
+SymptomsIntent It is {Symptoms}
+SymptomsIntent It was {Symptoms}
+SymptomsIntent {Symptoms} is here
+SymptomsIntent {Symptoms} is present
+SymptomsIntent I cant {Symptoms}
+SymptomsIntent I can not {Symptoms}
+YesIntent yes
+YesIntent ya
+YesIntent OK
+NoIntent no
+NoIntent nope
+NoIntent naa
+DetailIntent elaborate it
+TerminateIntent Terminate
+FinishIntent conclude
+FinishIntent conclusion
+FinishIntent finish
