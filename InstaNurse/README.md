@@ -19,9 +19,11 @@ AWS developer console
 
 ## Instruction to Compile and Run
 
-run below commands in the extracted folder
-`cd InstaNurse`
-`python3.5 InstaNurse.py`
+run below commands in the extracted folder.
+
+`$ cd InstaNurse`
+
+`$ python3.5 InstaNurse.py`
 
 In a new terminal run the below commands
 `./ngrok http 5000`
