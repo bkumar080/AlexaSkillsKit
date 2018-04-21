@@ -26,7 +26,8 @@ run below commands in the extracted folder.
 `$ python3.5 InstaNurse.py`
 
 In a new terminal run the below commands
-`./ngrok http 5000`
+
+`$ ./ngrok http 5000`
 
 -> copy and paste the sample utterence, Intent Schema and Slot in the respecive places
 -> copy and paste in the developer console at configuration tab
