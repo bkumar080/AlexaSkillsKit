@@ -1,0 +1,1 @@
+# These are the Alexa Skills developed for Amazon Echo
